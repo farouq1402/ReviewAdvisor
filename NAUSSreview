@@ -1,0 +1,212 @@
+A Comparative Study of ICP-OES and AAS for Lead Determination in Urine Analysis
+Abstract
+This research study utilized experimental methods to compare the effectiveness of ICP-OES and AAS-GF techniques in measuring lead recovery in urine samples. The results showed that the average recovery percentages ranged from 91% to 108% (with an average of 99%) for the GF-AAS technique, while the ICP-OES technique yielded recovery percentages ranging from 90% to 99% (with an average of 98%). Both techniques demonstrated consistent outcomes, but the GF-AAS technology exhibited slightly higher recovery rates compared to ICP-OES. Statistical analysis using a T-test indicated no significant difference in the recovery percentages between GF-AAS and ICP-OES. Therefore, either technique can be used interchangeably based on the recovery results obtained in this study. 
+Key words: AAS, ICO-OES, lead, urine analysis
+Introduction
+Lead is classified as a non-essential heavy metal that is known to be a prevalent environmental pollutant. It is often found alongside other non-essential heavy metals like cadmium, arsenic, and mercury, which have no known benefits for the physiology of humans, animals, and aquatic organisms. Increased levels of lead in the body are linked to neurotoxicity, and the current available medications for lead poisoning have numerous negative effects on human health. Research has focused on determining lead concentrations and developing more advanced and precise methods and devices for measurement. Lead is the oldest toxic heavy metal and can be found in various professional and environmental sources such as soil, rocks, water, and the aquatic environment. It can enter the body through inhalation, skin contact, or ingestion and subsequently distributes among red blood cells, soft tissues, and mineralized tissues. Individuals with high levels of heavy metals in their bodies are more vulnerable to diseases such as neurotoxicity, diabetes, cardiovascular diseases, infertility, kidney damage, and cancer. Conversely, essential minerals like manganese, cobalt, iron, and zinc are present in small amounts in the body and play important roles as co-factors, enzymes, or mediators. However, excessive exposure to these minerals can also lead to toxicity in humans and other living organisms. Heavy metals, as inorganic compounds, assist in determining the variations in their concentration ratios in biological samples in relation to an individual's health. Elevated levels of heavy metals in biological samples indicate a pathological condition. Therefore, it is crucial to develop and employ robust and reliable analytical methods for accurately determining the levels of heavy metals in biological samples. One of the primary responsibilities of forensic toxicology is to identify the concentrations of heavy and toxic metals in biological materials obtained from individuals or collected during autopsies, as well as in samples of food, water, sewage, and specific substances. The improved technique for determining the concentration of heavy metals in multi-element analysis using ICP-OES and F-AAS allows for detection at extremely low levels. By employing both techniques, the advanced methods offer precise and accurate results. The recovery rates of the analyzed substances using these techniques exceed 90%. The analytical findings obtained from the prior concentration of samples using ICP-OES can be compared to those obtained using F-AAS (Barbara et al., 2007). Choosing suitable materials and analysis methods is a crucial aspect of correctly analyzing the elemental content, including both highly toxic and non-toxic elements that may occur naturally but become harmful in large quantities. Various approaches exist for determining different metals in food and biological samples (Taylor et al., 1999).
+Various types of atomic absorption spectrometry are commonly employed in the toxicological analysis of non-organic compounds. These techniques differ based on the dissolution method used:
+•	Flame Atomic Absorption Spectroscopy (AAS-F) (Vähäoja et al., 2005)
+•	Electrothermal Atomic Absorption Spectroscopy (ETAAS) (Caraballo et al., 2003)
+•	Hydride Generation (HG) and Graphite Furnace Atomic Absorption Spectroscopy (Ng & Moore, 1998)
+•	Graphite Furnace Atomic Absorption Spectroscopy (GF-AAS) (Oliveira & Oliveira, 2001)
+•	X-ray Fluorescence (XRF) Spectroscopy (Schumacher et al., 2010)
+•	Ion Chromatography (Emteborg & Bordin, 1998)
+•	Dual Inductively Coupled Plasma Mass Spectrometry (ICP-MS) (Goullé et al., 2005)
+•	Inductively Coupled Plasma Optical Emission Spectroscopy (ICP-OES) (Mochizuki et al., 2002)
+The latter two techniques, ICP-MS and ICP-OES, allow for relatively fast determination of multiple elements while ensuring analytical precision, accuracy, detection limits, and quantitative estimation. They are increasingly utilized in studying elements like selenium (Mochizuki et al., 2002), lead (Cho & Myung, 2011), and arsenic (Grotti et al., 2006).
+
+EXPERIMENTAL
+Instrumentation
+In this study, an Inductively Coupled Plasma-Optical Emission Spectroscopy (ICP-OES) instrument from Agilent Technologies, USA (Model 5110 VDV) was used. The instrument consisted of an octopole ion guide and a cell that could be pressurized with a reaction gas (H₂ and He). The optimization of the chamber involved investigating the impact of the gas used on the signal of the studied elements. Microwave digestion was performed using the ETHOS ONE High-Performance Microwave Digestion System from Milestone. 
+Samples
+Thirty urine samples were collected from healthy volunteers of both genders and different age groups. Special plastic containers with a 100 ml capacity were used for sample collection. Standard urine sample collection methods were followed to ensure minimal heavy metal contamination. Each urine sample was treated with 0.5 ml of 69% nitric acid (HNO₃) and stored in a freezer at -20°C until analysis. 
+Standard Solutions, Reagents, and Calibration
+Microwave radiation in high-pressure digestion vessels was utilized for sample digestion, enabling rapid digestion of samples and making it suitable for routine analysis of trace elements. The calibration standard solution for lead (Pb) was a single element solution with a concentration of 1 mg/ml, provided by Agilent Technologies, USA. The calibration standard solution was prepared at a concentration of 10 ppm in 5% nitric acid (HNO₃).
+Unspiked samples (Blank) and spiked samples were prepared by withdrawing a volume of 5 mL from each urine sample and adding specific amounts of standard solution. Nitric acid and hydrogen peroxide were added to all samples. The sealed plastic vessels containing the samples were subjected to microwave digestion according to the specified method. 
+Statistical Analyses:
+Descriptive statistics including mean and standard deviations were analyzed using the Statistical Package for the Social Sciences (SPSS) software version 20.0. ANOVA-test (p<0.05) was used for the analysis of quantitative data. Microsoft Excel and Origin software were also employed to assess the significance of differences between variables in blood samples. The concentration values obtained were expressed as mean ± standard deviation. 
+RESULTS AND DISCUSSION
+This study aims to analyze and quantify the presence of lead in urine samples. The primary objective is to determine the most effective technique for estimating lead levels in urine, comparing atomic absorption spectroscopy (AAS) and inductively coupled plasma-optical emission spectroscopy (ICP-OES) to identify the method that yields the highest recovery rate. In this study, a calibration using five standard points under optimal conditions was employed for lead analysis. The obtained results for all analyzed elements were documented. The calibration coefficient for lead was established to assess the quality of analysis using both ICP-OES and AAS technologies, specifically for analyzing and quantifying the levels of these elements in urine samples.
+Method Validation
+In the fields of criminal and clinical toxicology, analytical methods are employed to identify and measure the levels of drugs, toxins, metabolites, and heavy metals in biological fluids or tissues. To ensure the accuracy and reliability of these quantitative biochemical procedures, it is generally recommended to conduct certain validation assays. These assays include assessing linearity, determining the limit of quantitation (LOQ), and may also involve measuring the limit of detection (LOD) and recovery rates. These validation assays are important for establishing the reliability and sensitivity of the analytical methods used in the field of toxicology (Shah et al., 2000).
+Calibration curves (linearity)
+The calibration curve is a graphical representation that illustrates the relationship between the concentration of the substance being analyzed in a sample and the corresponding response observed in bioanalytical analysis methods. This response is often expressed as the intensity ratio of the substance to a reference concentration. Selecting the appropriate calibration curve is crucial for accurate quantitative determination of the substance. To establish a reliable calibration curve, an adequate number of standard solutions must be measured, allowing for the derivation of a mathematical equation that accurately describes the relationship between concentration and intensity (Kruve et al., 2015).
+In bioanalytical analysis methods, standard solutions are prepared by mixing the substance to be analyzed with a control biological sample. It is important that these solutions cover the entire calibration range and have equal spacing throughout (Kruve et al., 2015). A correlation coefficient (r2) greater than 0.99 is generally considered an appropriate acceptance criterion for calibration curve outputs (Batanero et al., 1996). The calibration curves for lead in urine samples in this study were plotted. Figures (1) and (2) depict the calibration curves for urine using Atomic Absorption Spectrophotometer and Inductively Coupled Plasma Optical Emission Spectrometry, respectively. The correlation coefficients and regression equations for both instruments are presented in Table (3).
+Table (1): Standard Curve for Lead in AAS.
+Standards	Intensity	Method Concentration	Calculated Concentration
+Blank	0.0042	0.26	0.00
+Standard Concentration 10 ppb	0.1106	10.20	10.00
+Standard Concentration 20 ppb	0.2240	19.78	20.00
+Standard Concentration 30 ppb	0.3448	29.50	30.00
+Standard Concentration 40 ppb	0.4218	38.66	40.00
+Standard Concentration 50 ppb	0.5139	49.62	50.00
+Wavelength: 283.3 nm, Absorbance: 2.06, Correlation Coefficient: 0.9985
+
+ 
+
+Abs.=0.0125*con. +0.0103
+Figure (1): linear calibration curve of for lead for atomic absorption spectrometer
+
+Table (2): Standard lead curve of the optical emission spectrometer with induction plasma.
+Standards	Intensity	Method Concentration	Calculated Concentration
+Blank	0.0042	0.26	0.00
+Standard Concentration 20 ppb	87.94	19.89	20.00
+Standard Concentration 40 ppb	166.54	38.94	40.00
+Standard Concentration 60 ppb	251.59	58.89	60.00
+Standard Concentration 80 ppb	335.40	81.39	80.00
+Wavelength: 220.353 nm, Intensity: 2.06, Correlation coefficient: 0.99937
+
+
+
+
+
+ 
+
+Y(Intensity)=4.1722* X(concentration) +1.4065
+Figure (2) Standard curve of lead with optical emission spectrometer with induction plasma
+
+
+Table (3): Correlation coefficient and regression equations of the lead element. 
+Regression equations	Correlation Coefficient(r2)
+AAS	ICP	AAS	ICP
+Y=4.1722* X+1.4065
+	Y=0.0125*X +0.0103
+	0.9985	0.99937
+
+Table 3 indicates that the coefficient values exceed 0.9970, indicating linearity.
+
+
+
+
+
+
+Sensitivity and accuracy of machine:
+The sensitivity of the device used to estimate the target element in urine samples is determined by two important parameters: the limit of detection (LOD) and the limit of quantitation (LOQ). The LOD represents the lowest concentration at which the device can reliably detect the presence of the element, while the LOQ represents the lowest concentration that can be accurately quantified (Shah et al., 2000).
+To ensure the accuracy and validity of the results, it is necessary to determine the extent of detection and assessment of impurities using appropriate methods. Table 4 presents the calculated threshold values, the recovery ratio of the standard lead element, and the validity of the results and method. These parameters provide valuable information about the sensitivity and reliability of the analytical method employed in the study. 
+Table (4): Average Recovery Ratio, LOD and LOQ for Lead Element.
+Average percentage Recovery	AAS	ICP
+	99.24%	98.15 %
+LOD (ppb)	2.77	0.92
+LOQ (ppb)	1.60	2.65
+
+Concentration of lead element:
+The concentration of lead element in urine samples was determined using both (atomic absorption spectrometry and optical emission spectrometry with induction plasma), and the results below are set out in Table (5).
+Table (5): Concentration of lead in urine.
+Sample No.	GF-AAS(Blank)	GF-AAS(Spiky)	ICP-OES(Blank)	ICP-OES(Spiky)
+1	0.73	45.57	0.50	46.86
+2	0.65	45.37	3.85	43.83
+3	0.07	44.58	2.52	43.15
+4	0.61	44.05	4.52	46.89
+5	0.90	44.97	0.34	46.42
+6	2.02	44.10	2.27	44.67
+7	1.62	45.27	3.25	46.35
+8	0.63	45.19	2.73	48.01
+9	0.52	45.47	2.33	44.99
+10	1.58	44.10	0.30	52.13
+11	1.32	45.34	2.03	48.00
+12	0.97	43.84	2.47	47.00
+13	0.97	45.57	2.89	48.88
+14	1.33	44.12	2.60	48.81
+15	1.44	46.94	1.33	48.33
+16	1.54	43.39	1.55	49.95
+17	1.07	45.61	2.04	44.09
+18	1.30	42.78	3.70	48.19
+19	2.64	47.72	0.97	48.84
+20	2.52	47.75	1.80	46.13
+21	1.98	47.75	2.02	49.16
+22	3.23	48.61	1.59	43.67
+23	2.46	44.51	1.24	47.37
+24	2.54	45.60	0.27	48.98
+25	0.96	46.49	0.57	51.31
+26	0.03	46.77	1.13	52.34
+27	0.26	43.14	1.02	45.97
+28	2.12	43.99	2.99	46.08
+29	2.73	46.32	0.51	50.85
+30	2.68	44.12	2.58	47.78
+Average	1.447333	45.301	1.930333	47.501
+RSD %		2.62		3.09
+
+
+Recovery:
+The percentage recovery of the substance being estimated can be calculated to assess its response after extraction, relative to a standard solution of the substance at the same concentration, which represents 100% (Lindner, 1998). Typically, a range of ±10% is considered acceptable for controls, while a recovery value within the range of 90% to 110% is generally accepted (Olmedo et al., 2010).
+
+
+
+
+Table (6): Analytical results of the percentage recovery of lead element from urine samples studied.
+Sample No.	GF-AAS RSD%	ICP-OES RSD%
+1	91.14	97.72
+2	100.74	97.66
+3	99.16	96.3
+4	98.1	96.78
+5	99.94	97.84
+6	98.2	99.34
+7	100.54	97.7
+8	100.38	96.02
+9	100.94	89.98
+10	98.2	104.26
+11	100.68	96
+12	97.68	98
+13	101.14	97.76
+14	98.24	97.62
+15	99.88	96.66
+16	98.78	99.9
+17	101.22	98.18
+18	98.56	96.38
+19	98.44	97.68
+20	98.5	92.26
+21	98.5	98.32
+22	97.22	97.34
+23	99.02	94.74
+24	101.2	97.96
+25	91.98	102.62
+26	99.54	104.68
+27	96.28	91.94
+28	97.98	92.16
+29	91.64	101.7
+30	98.24	97.56
+Average	99.24	98.15
+
+
+ANOVA T-test:
+Table (7) presents the results obtained for the lead component, including the average and normative deviations from three repeated measurements. The concentrations obtained from both Atomic Absorption Spectrometry (ASS) and Inductively Coupled Plasma-EE (ICP-OES) are compared using a T-Test with a significance level of p = 0.05.
+The T-Test analysis for the lead component in Table (7) reveals that the p-value for both ASS and ICP-OES is 0.366. Since the p-value is greater than the significance level of 0.05, it indicates that there is no significant difference in the recovery rates between ASS and ICP-OES technologies for the lead element. This suggests that either of these techniques can be used to achieve accurate results, which is consistent with the findings obtained from the accuracy analysis.
+
+Table (7) Results of ANOVA T- test for lead.
+
+
+
+
+
+
+
+
+
+
+
+Conclusion
+In this study, the experimental scientific method was utilized to compare the performance of two technologies, Inductively Coupled Plasma-Atomic Emission Spectrometry (ICP-AES) and Graphite Furnace-Atomic Absorption Spectrometry (GF-AAS), for estimating the recovery of lead in urine samples. The results indicated that using GF-AAS technology, the average recovery rate for urine samples ranged from 91% to 108%, with an average of 99% for the lead component. On the other hand, using ICP-OES technology, the average recovery rate ranged from 90% to 99%, with an average of 98% for the lead component. The lead concentrations detected were 2.77 micrograms/L using ICP-OES and 0.92 micrograms/L using GF-AAS. For the average lead concentration, ICP-OES yielded 1.60 micrograms/L, while GF-AAS resulted in 2.65 micrograms/L.
+Based on these results, it can be concluded that both GF-AAS and ICP-OES technologies can be used to estimate lead concentrations in urine samples. The recovery rates for both techniques were comparable, with GF-AAS showing slightly higher recovery rates. The T-Test analysis for the lead component indicated that there was no significant difference in recovery rates between GF-AAS and ICP-AES technologies, with a p-value of 0.366 (p < 0.05). This suggests that either technology can be used as an alternative to the other, which aligns with the recovery results. 
+
+References
+Barbara Feist, Barbara Mikula, Katarzyna Pytlakowska, BozenaPuzio, Franciszek Buhl
+Batanero, C., Estepa, A., Godino, J. D., & Green, D. R. (1996). Intuitive strategies and preconceptions about association in contingency tables. Journal for Research in Mathematics Education, 151-169.
+Caraballo, E. A. H., Pascusso, C., & Alvarado, J. (2003). Determination of manganese in brain samples by slurry sampling graphite furnace atomic absorption spectrometry. Talanta, 59(5), 897-904.‏
+Caserta, D., Graziano, A., Monte, G. L., Bordi, G., &Moscarini, M. (2013). Heavy metals and placental fetal-maternal barrier: a mini-review on the major concerns. Eur Rev Med Pharmacol Sci, 17(16), 2198-2206.‏
+Caserta, D., Mantovani, A., Ciardo, F., Fazi, A., Baldi, M., Sessa, M. T., &Minoia, C. (2011). Heavy metals in human amniotic fluid: a pilot study. Prenatal diagnosis, 31(8), 792-796.‏
+Cho, H. J., & Myung, S. W. (2011). Determination of cadmium, chromium and lead in polymers by icp-oes using a high pressure asher (hpa). Bull. Korean Chem. Soc, 32(2), 489.‏
+Emteborg, H., &Bordin, G. (1998). Speciation of organic and inorganic selenium in a biological certified reference material based on microbore ion-exchange chromatography coupled to inductively coupled plasma atomic emission spectrometry via a direct injection nebulizer or coupled to electrothermal atomic absorption spectrometry. Analyst, 123(2), 245-253.‏
+European Commission. Regulation (EC) No. 333/2007 of 28 March 2007 laying down the methods of sampling and analysis for the official control of the levels of lead, cadmium, mercury, inorganic tin, 3-MCPD and benzo(a)pyrene in foodstuffs. 2007. p. L 88/29–L 88/38.
+European Medicine Agency. Validation of analytical procedures: Text and methodology. 2006.
+Goullé, J. P., Mahieu, L., Castermant, J., Neveu, N., Bonneau, L., Lainé, G., ... & Lacroix, C. (2005). Metal and metalloid multi-elementary ICP-MS validation in whole blood, plasma, urine, and hair: Reference values. Forensic science international, 153(1), 39-44.‏
+Grotti, M., Lagomarsino, C., & Magi, E. (2006). Simultaneous determination of arsenic, selenium, and mercury in foodstuffs by chemical vapour generation inductively coupled plasma optical emission spectroscopy. Annali di Chimica: Journal of Analytical, Environmental and Cultural Heritage Chemistry, 96(11‐12), 751-764.‏
+Hou, X., Amais, R. S., Jones, B. T., &Donati, G. L. (2006). Inductively coupled plasma optical emission spectrometry. Encyclopedia of Analytical Chemistry: Applications, Theory, and Instrumentation, 1-25.‏
+Kruve, A., Rebane, R., Kipper, K., Oldekop, M. L., Evard, H., Herodes, K., &Leito, I. (2015). Tutorial review on validation of liquid chromatography–mass spectrometry methods: Part II. Analytica chimica acta, 870, 8-28.
+Lindner, W. (1998). Requirements for initial assay validation and publication in J. Chromatography B. Journal of chromatography. B, Biomedical sciences, and applications, 707(1), 1-2.
+Mochizuki, M., Hondo, R., & Ueda, F. (2002). Simultaneous analysis for multiple heavy metals in contaminated biological samples. Biological trace element research, 87(1-3), 211-223.‏
+NBN ISO 5725-2. 1994. Accuracy (trueness and precision) of measurement methods and results part 2. Belgian Institute of Standardization.
+Ng, J., & Moore, M. (1998). Speciation of arsenic metabolites in the urine of occupational workers and experimental rats using an optimised hydride cold-trapping method. Analyst, 123(5), 929-933.‏
+Oliveira, P., & Oliveira, E. (2001). Multielement electrothermal atomic absorption spectrometry: a study on direct and simultaneous determination of chromium and manganese in urine. Fresenius' journal of analytical chemistry, 371(7), 909-914.‏
+Olmedo, P., Pla, A., Hernández, A. F., López-Guarnido, O., Rodrigo, L., & Gil, F. (2010). Validation of a method to quantify chromium, cadmium, manganese, nickel and lead in human whole blood, urine, saliva and hair samples by electrothermal atomic absorption spectrometry. Analytica Chimica Acta, 659(1-2), 60-67.‏
+Schumacher, R., Barth, M., Neimke, D., &Niewöhner, L. (2010, June). Investigation of gunshot residue patterns using milli-XRF-techniques: first experiences in casework. In Scanning Microscopy 2010 (Vol. 7729, p. 772917). International Society for Optics and Photonics.‏
+Vähäoja, P., VÄLIMÄKI, I., Heino, K., Perämäki, P., & KUOKKANEN, T. (2005). Determination of wear metals in lubrication oils: a comparison study of ICP-OES and FAAS. Analytical sciences, 21(11), 1365-1369.‏
